@@ -1,6 +1,6 @@
 # amlkiller-s-v2ray-Subscription
 ## 一项不定期更新的v2ray/SSR免费订阅
-## 节点均来自网络收集
+### 节点均来自网络收集
 ### 订阅短连接：
 SSR:  
 http://r6d.cn/vazt  
