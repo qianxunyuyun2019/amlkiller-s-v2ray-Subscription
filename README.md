@@ -3,9 +3,9 @@
 ### 节点均来自网络收集
 ### 订阅短连接：
 SSR:  
-https://t.cn/A6bESerq  
+http://r6d.cn/x2E2  
 V2RAY:  
-https://t.cn/A6bESr7x  
+http://r6d.cn/x2BA  
 clash:  
 ∑(っ°Д°;)っ卧槽，不见了  
 > 最近有人问我能不能做clash的配置文件，但是更新clash真的很麻烦哦，所以鸽了，以后再做吧  
