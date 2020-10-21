@@ -7,9 +7,7 @@ http://r6d.cn/x2E2
 V2RAY:  
 http://r6d.cn/x2BA  
 clash:  
-∑(っ°Д°;)っ卧槽，不见了  
-> 最近有人问我能不能做clash的配置文件，但是更新clash真的很麻烦哦，所以鸽了，以后再做吧  
->(=´ω｀=)
+http://r6e.cn/qmuT
 
 ### 注意事项
 平均跑分100mbps  
