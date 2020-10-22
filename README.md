@@ -5,7 +5,7 @@
 SSR:  
 http://r6e.cn/qsH5  
 V2RAY:  
-http://r6e.cn/qsHR  
+http://r6e.cn/qsJM  
 clash:  
 http://r6e.cn/qmuT
 
