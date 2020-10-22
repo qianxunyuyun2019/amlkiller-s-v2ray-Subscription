@@ -3,9 +3,9 @@
 ### 节点均来自网络收集
 ### 订阅短连接：
 SSR:  
-http://r6d.cn/x2E2  
+http://r6e.cn/qsH5  
 V2RAY:  
-http://r6d.cn/x2BA  
+http://r6e.cn/qsHR  
 clash:  
 http://r6e.cn/qmuT
 
