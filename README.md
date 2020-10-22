@@ -7,7 +7,7 @@ http://r6e.cn/qsH5
 V2RAY:  
 http://r6e.cn/qsJM  
 clash:  
-http://r6e.cn/qmuT
+http://r6e.cn/qsZU  
 
 ### 注意事项
 平均跑分100mbps  
