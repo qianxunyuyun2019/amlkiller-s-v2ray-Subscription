@@ -7,7 +7,7 @@ https://is.gd/MUBhbr
 V2RAY:  
 https://is.gd/MpVn8P  
 clash:  
-https://is.gd/ZIgbir  
+https://is.gd/jU3vrA  
 
 ### 注意事项
 平均跑分100mbps  
