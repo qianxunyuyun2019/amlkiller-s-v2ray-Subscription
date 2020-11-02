@@ -7,7 +7,8 @@
 SSR:  
 https://is.gd/MUBhbr  
 V2RAY:  
-https://is.gd/MpVn8P  
+高速版：https://is.gd/MpVn8P  
+仅仅能用版：https://is.gd/G8ITEB  
 clash:  
 https://is.gd/jU3vrA  
 
