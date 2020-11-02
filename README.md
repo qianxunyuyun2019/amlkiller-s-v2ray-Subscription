@@ -3,11 +3,11 @@
 ### 节点均来自网络收集
 ### 订阅短连接：
 SSR:  
-http://r6e.cn/qsH5  
+https://is.gd/MUBhbr  
 V2RAY:  
-http://r6e.cn/qsJM  
+https://is.gd/MpVn8P  
 clash:  
-http://r6e.cn/qsZU  
+https://is.gd/ZIgbir  
 
 ### 注意事项
 平均跑分100mbps  
