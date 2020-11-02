@@ -1,6 +1,8 @@
 # amlkiller-s-v2ray-Subscription
 ## 一项不定期更新的v2ray/SSR免费订阅
-### 节点均来自网络收集
+### 警告
+**这里的连接仅用于学习用途**
+**所有节点均是网络收集**
 ### 订阅短连接：
 SSR:  
 https://is.gd/MUBhbr  
@@ -23,6 +25,8 @@ https://is.gd/jU3vrA
 ヽ(ー_ー)ノ  
 sure，如果你家网不好连接速度不行的话也不要赖我哦。  
 另外SSR连接也不会很差啦，各位不要只单独用v2ray呀~  
+作者学生党，大家多多包容哈~  
+
 ### OTHER
 QQ交流群：1134174201  
 ANDRAX&TERMUX中文交流群：904474431  
