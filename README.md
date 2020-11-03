@@ -5,12 +5,12 @@
 **所有节点均是网络收集**
 ### 订阅短连接：
 SSR:  
-https://is.gd/MUBhbr  
+http://t.cn/A6bESerq  
 V2RAY:  
-高速版：https://is.gd/MpVn8P  
-仅仅能用版：https://is.gd/G8ITEB  
+高速版：http://t.cn/A6G4VzY2  
+仅仅能用版：http://t.cn/A6G4V2yg  
 clash:  
-https://is.gd/jU3vrA  
+http://t.cn/A6G4ckQx  
 
 ### 注意事项
 平均跑分100mbps  
