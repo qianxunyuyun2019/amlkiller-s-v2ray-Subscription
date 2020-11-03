@@ -3,6 +3,8 @@
 ### 警告
 **这里的连接仅用于学习用途**
 **所有节点均是网络收集**
+### How to use it?  
+[教程](https://github.com/amlkiller/amlkiller-s-v2ray-Subscription/blob/main/README.md"教程")
 ### 订阅短连接：
 SSR:  
 http://t.cn/A6bESerq  
