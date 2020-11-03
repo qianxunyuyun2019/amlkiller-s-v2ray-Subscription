@@ -3,7 +3,7 @@
 
 [点我下载](https://proxy.freecdn.workers.dev?url=https%3A%2F%2Fpan.5414.cf%2FWindows%2Fv2rayN.zip)
 
-解压后双击文件夹里 V2rayN.exe，在订阅设置里添加订阅:https://jiang.netlify.app 
+解压后双击文件夹里 V2rayN.exe，在订阅设置里添加订阅:https://http://t.cn/A6G4VzY2 
 点击更新一下订阅，收到节点即可使用。
 如不可以，请点右下角程序图标，点右键，打开http pac的那个代理选项即可。
 还不行，按照下面的图文教程操作。
@@ -21,7 +21,7 @@
 
 打开软件点左上角，选择“订阅设置”
 依次点“+”号；备注随便写。
-在地址（URL）那填写:[https://jiang.netlify.app](https://jiang.netlify.app)
+在地址（URL）那填写:[https://http://t.cn/A6G4VzY2](https://http://t.cn/A6G4VzY2)
 * 然后点右上角的小对号保存。
 退出来后，点右上角的三个小点，点击》最下面的 更新订阅，就能收到二爷给您准备好的服务器了。
     点右下角的小V，连接，即可连接国际互联网了。
@@ -62,7 +62,7 @@ https://api.dler.io/sub?target=clash&new_name=true&url=https%3A%2F%2Fjiang.netli
 退出后返回上一个页面，“iTunes Store与App Store”已经显示为“关”：
 Shadowroket在ios设备上（含ipad）使用教程
 * 下载Shadowrocket后， 首页的点右上角的 + 号，选择add subscribe （订阅）
-* 在 URL后面填写：二爷的订阅地址：[https://jiang.netlify.app](https://jiang.netlify.app)
+* 在 URL后面填写：二爷的订阅地址：[https://http://t.cn/A6G4VzY2](https://http://t.cn/A6G4VzY2)
 * 图文教程：[点我查看图文教程](https://v2sx.github.io/Help/iOS.html)
 * 在线安装：[https://shadowsocks-help.github.io/ios/](https://shadowsocks-help.github.io/ios/)
 
