@@ -37,16 +37,16 @@
 
 简易教程：
 1、打开软件，点第2个配置。
-2、点“新配置”》“URL"》找到“第3个URL》复制下面的地址粘贴进去
+2、点“新配置”》“URL"》找到“第3个URL》复制下面的地址粘贴进去  
 
-https://api.dler.io/sub?target=clash&new_name=true&url=https%3A%2F%2Fjiang.netlify.app&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini
+http://t.cn/A6G4ckQx  
 
 》自动更新 那里写60分钟即可。》然后点右上角保存。
 返回后，点：配置，选择你刚刚添加的配置，选择一下。
 》最后，点击第1个：已停止 三个字启动软件即可。
 不会的话点下面的链接观看小白入门教程
 
-[Clash4android使用教程](https://proxy.freecdn.workers.dev?url=https%3A%2F%2Fpan.5414.cf%2FAndroid%2Fclash4android.mp4)
+[Clash for android使用教程](https://proxy.freecdn.workers.dev?url=https%3A%2F%2Fpan.5414.cf%2FAndroid%2Fclash4android.mp4)
 
 ##  3、IOS平台 
 
@@ -62,7 +62,7 @@ https://api.dler.io/sub?target=clash&new_name=true&url=https%3A%2F%2Fjiang.netli
 退出后返回上一个页面，“iTunes Store与App Store”已经显示为“关”：
 Shadowroket在ios设备上（含ipad）使用教程
 * 下载Shadowrocket后， 首页的点右上角的 + 号，选择add subscribe （订阅）
-* 在 URL后面填写：二爷的订阅地址：[https://http://t.cn/A6G4VzY2](https://http://t.cn/A6G4VzY2)
+* 在 URL后面填写：我的订阅地址：[https://http://t.cn/A6G4VzY2](https://http://t.cn/A6G4VzY2)
 * 图文教程：[点我查看图文教程](https://v2sx.github.io/Help/iOS.html)
 * 在线安装：[https://shadowsocks-help.github.io/ios/](https://shadowsocks-help.github.io/ios/)
 
@@ -79,13 +79,13 @@ Shadowroket在ios设备上（含ipad）使用教程
 2.点击通知栏 ClashX 图标保持选中状态，按快捷键 ⌘+M(订阅快捷键)
 会弹出以下窗口。
 ![2.jpg](https://i.loli.net/2019/11/20/8eB13mRbFuszwxg.jpg)
-Url：复制下面的链接粘贴进去：
-https://api.dler.io/sub?target=clash&new_name=true&url=https%3A%2F%2Fjiang.netlify.app&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FMazeorz%2Fairports%2Fmaster%2FClash%2FSkslaPro-Balance.ini
+Url：复制下面的链接粘贴进去：  
+http://t.cn/A6G4ckQx
 Config Name：随便写
 
 ClashX & 其它平台clash的客户端，使用二爷订阅地址需要把订阅链接转换。
 **一般我用下面的地址：**
-[https://acl4ssr.netlify.app/](https://acl4ssr.netlify.app/)
+[http://t.cn/A6G4ckQx](http://t.cn/A6G4ckQx)
 使用方法Google吧，很简单的，需要会点儿常用计算机术语（洋文）。
 这里有教程。
 [https://bluedoc.io/agentneo/docs/mk22](https://bluedoc.io/agentneo/docs/mk22)
