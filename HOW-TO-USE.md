@@ -75,16 +75,16 @@ Shadowroket在ios设备上（含ipad）使用教程
 ### [点我下载ClashX-v1.30.2](https://tlanyan.me/download.php?filename=/v2/macos/clashX-v1.30.2.dmg)
 使用教程：
 1.下载 ClashX 客户端，安装后运行。
-![1.jpg](https://i.loli.net/2019/11/20/uNGrjl2noCL1f5B.jpg)
+![1.jpg](https://i.loli.net/2019/11/20/uNGrjl2noCL1f5B.jpg)  
 2.点击通知栏 ClashX 图标保持选中状态，按快捷键 ⌘+M(订阅快捷键)
 会弹出以下窗口。
-![2.jpg](https://i.loli.net/2019/11/20/8eB13mRbFuszwxg.jpg)
+![2.jpg](https://i.loli.net/2019/11/20/8eB13mRbFuszwxg.jpg)  
 Url：复制下面的链接粘贴进去：  
-http://t.cn/A6G4ckQx
-Config Name：随便写
+http://t.cn/A6G4ckQx  
+Config Name：随便写  
 
-ClashX & 其它平台clash的客户端，使用二爷订阅地址需要把订阅链接转换。
-**一般我用下面的地址：**
+ClashX & 其它平台clash的客户端，使用二爷订阅地址需要把订阅链接转换。  
+**用下面的地址：**  
 [http://t.cn/A6G4ckQx](http://t.cn/A6G4ckQx)
 使用方法Google吧，很简单的，需要会点儿常用计算机术语（洋文）。
 这里有教程。
