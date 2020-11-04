@@ -4,7 +4,7 @@
 **这里的连接仅用于学习用途**
 **所有节点均是网络收集**
 ### How to use it?  
-[这是教程](https://github.com/amlkiller/amlkiller-s-v2ray-Subscription/blob/main/README.md"这是教程")
+[这是教程](https://github.com/amlkiller/amlkiller-s-v2ray-Subscription/blob/main/HOW-TO-USE.md "这是教程")
 ### 订阅短连接：
 SSR:  
 http://t.cn/A6bESerq  
