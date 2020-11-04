@@ -99,4 +99,6 @@ ClashX & 其它平台clash的客户端，使用二爷订阅地址需要把订阅
 ### [点我学习Linux上翻墙教程](https://github.com/V2Sx/v2rayL)
 
 #### [Qv2ray for Linux](https://tlanyan.me/download.php?filename=/v2/linux/Qv2ray.v2.7.0-a1-x64.AppImage)
-#### [Mellow](https://tlanyan.me/download.php?filename=/v2/linux/Mellow-0.1.22.AppImage)
+#### [Mellow](https://tlanyan.me/download.php?filename=/v2/linux/Mellow-0.1.22.AppImage)  
+  
+教程来自于——二爷翻墙网
