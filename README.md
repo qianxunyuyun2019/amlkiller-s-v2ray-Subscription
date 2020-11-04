@@ -28,7 +28,9 @@ https://subcon.dlj.tf/sub?target=clash&url=https%3A%2F%2Fgithub.com%2Famlkiller%
 无法登陆Google账号等一切账号  
 无法登陆Google账号等一切账号  
 
-[代理1](https://www.5414.gq/ "代理1") [代理2](https://www.5414.cf/ "代理2") [代理3](https://www.5414.ga/ "代理3")
+[代理1](https://www.5414.gq/ "代理1") [代理2](https://www.5414.cf/ "代理2") [代理3](https://www.5414.ga/ "代理3")  
+
+作者git仓库[cf-worker](https://github.com/EtherDream/jsproxy/tree/master/cf-worker)
 
 ### 注意事项
 平均跑分100mbps  
