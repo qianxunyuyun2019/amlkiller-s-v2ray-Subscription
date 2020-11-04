@@ -12,7 +12,7 @@ V2RAY:
 高速版：http://t.cn/A6G4VzY2  
 仅仅能用版：http://t.cn/A6G4V2yg  
 clash:  
-http://t.cn/A6G4ckQx  
+https://dwz.mk/qMV7z2  
   
 这是长的  
 SSR:  
