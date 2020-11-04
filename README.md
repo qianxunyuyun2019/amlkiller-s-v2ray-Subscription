@@ -13,6 +13,14 @@ V2RAY:
 仅仅能用版：http://t.cn/A6G4V2yg  
 clash:  
 http://t.cn/A6G4ckQx  
+  
+这是长的  
+SSR:  
+https://github.com/amlkiller/amlkiller-s-v2ray-Subscription/raw/main/SSR.txt  
+高速版：https://github.com/amlkiller/amlkiller-s-v2ray-Subscription/raw/main/Subscription.txt  
+仅仅能用版：https://github.com/amlkiller/amlkiller-s-v2ray-Subscription/raw/main/Subscription2.txt  
+clash:  
+https://subcon.dlj.tf/sub?target=clash&url=https%3A%2F%2Fgithub.com%2Famlkiller%2Famlkiller-s-v2ray-Subscription%2Fraw%2Fmain%2FCLASH.txt&emoji=true&list=false&sort=false&udp=true&tfo=false&scv=false&append_type=false&fdn=true&new_name=true&group=amlkiller&filename=amlkiller  
 
 ### CloudFlare Worker网页代理
 这个方法只是用于只想看看Google、YouTube的小伙伴们。  
