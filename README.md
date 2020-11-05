@@ -14,7 +14,10 @@ V2RAY:
 clash:  
 https://dwz.mk/qMV7z2  
   
-这是长的  
+如果无法更新，请修改 DNS  
+修改方法自行百度  
+  
+这是长连接  
 SSR:  
 https://github.com/amlkiller/amlkiller-s-v2ray-Subscription/raw/main/SSR.txt  
 高速版：https://github.com/amlkiller/amlkiller-s-v2ray-Subscription/raw/main/Subscription.txt  
