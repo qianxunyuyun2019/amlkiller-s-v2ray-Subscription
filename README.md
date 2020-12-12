@@ -1,8 +1,9 @@
 # amlkiller-s-v2ray-Subscription
 ## 一项不定期更新的v2ray/SSR免费订阅
 ### 更新日期&更新快报
-2020-12-5  
-更了，已经更了  
+2020-12-12  
+作者学生党，临近期末，准备复习，放假才更  
+网页代理节点+1
 
 ### 警告
 **这里的连接仅用于学习用途**
@@ -35,11 +36,12 @@ https://subcon.dlj.tf/sub?target=clash&url=https%3A%2F%2Fgithub.com%2Famlkiller%
 无法登陆Google账号等一切账号  
 无法登陆Google账号等一切账号  
 
-[在线代理](https://cdn.fobzs.com/ "代理")  
+[在线代理1](https://cdn.fobzs.com/ "代理")  
+[在线代理2](https://j.bulink.xyz/ "代理")  
   
 建议添加host规则使用
 >104.16.38.155 cdn.fobzs.com
-
+>104.16.38.155 j.bulink.xyz
 作者git仓库：[cf-worker](https://github.com/EtherDream/jsproxy/tree/master/cf-worker)
 
 ### 注意事项
