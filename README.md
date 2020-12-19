@@ -40,9 +40,9 @@ https://subcon.dlj.tf/sub?target=clash&url=https%3A%2F%2Fgithub.com%2Famlkiller%
 [在线代理2](https://j.bulink.xyz/ "代理")  
   
 建议添加host规则使用
->104.16.38.155 cdn.fobzs.com
->104.16.38.155 j.bulink.xyz
-作者git仓库：[cf-worker](https://github.com/EtherDream/jsproxy/tree/master/cf-worker)
+>104.16.38.155 cdn.fobzs.com  
+>104.16.38.155 j.bulink.xyz  
+作者git仓库：[cf-worker](https://github.com/EtherDream/jsproxy/tree/master/cf-worker)  
 
 ### 注意事项
 平均跑分100mbps  
