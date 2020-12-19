@@ -1,9 +1,8 @@
 # amlkiller-s-v2ray-Subscription
 ## 一项不定期更新的v2ray/SSR免费订阅
 ### 更新日期&更新快报
-2020-12-12  
+2020-12-19  
 作者学生党，临近期末，准备复习，放假才更  
-网页代理节点+1
 
 ### 警告
 **这里的连接仅用于学习用途**
@@ -14,8 +13,9 @@
 SSR:  
 http://t.cn/A6bESerq  
 V2RAY:  
-高速版：http://t.cn/A6G4VzY2  
-ALL lines http://t.cn/A6G4V2yg  
+http://t.cn/A6G4VzY2  
+ALL lines(未base64加密) ：  
+http://t.cn/A6G4V2yg  
 clash:  
 https://dwz.mk/qMV7z2  
   
