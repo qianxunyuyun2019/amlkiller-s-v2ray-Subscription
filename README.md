@@ -36,12 +36,11 @@ https://subcon.dlj.tf/sub?target=clash&url=https%3A%2F%2Fgithub.com%2Famlkiller%
 无法登陆Google账号等一切账号  
 无法登陆Google账号等一切账号  
 
-[在线代理1](https://cdn.fobzs.com/ "代理")  
-[在线代理2](https://j.bulink.xyz/ "代理")  
+[在线代理(fobzs)](https://cdn.fobzs.com/ "代理")  
+[在线代理(自动分配)](https://j.bulink.xyz/ "代理")  
   
 建议添加host规则使用
 >104.16.38.155 cdn.fobzs.com  
->104.16.38.155 j.bulink.xyz  
   
 作者git仓库：[cf-worker](https://github.com/EtherDream/jsproxy/tree/master/cf-worker)  
 
