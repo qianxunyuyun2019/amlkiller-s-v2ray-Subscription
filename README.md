@@ -1,8 +1,9 @@
 # amlkiller-s-v2ray-Subscription
 ## 一项不定期更新的v2ray/SSR免费订阅
 ### 更新日期&更新快报
-2020-12-19  
-作者学生党，临近期末，准备复习，放假才更  
+2020-12-30  
+新年快乐！  
+网页代理节点+2
 
 ### 警告
 **这里的连接仅用于学习用途**
@@ -13,9 +14,8 @@
 SSR:  
 http://t.cn/A6bESerq  
 V2RAY:  
-http://t.cn/A6G4VzY2  
-ALL lines(未base64加密) ：  
-http://t.cn/A6G4V2yg  
+高速版：http://t.cn/A6G4VzY2  
+ALL lines http://t.cn/A6G4V2yg  
 clash:  
 https://dwz.mk/qMV7z2  
   
@@ -38,11 +38,15 @@ https://subcon.dlj.tf/sub?target=clash&url=https%3A%2F%2Fgithub.com%2Famlkiller%
 
 [在线代理(fobzs)](https://cdn.fobzs.com/ "代理")  
 [在线代理(自动分配)](https://j.bulink.xyz/ "代理")  
+
+同志提供：  
+[在线代理(stw-siteproxy)](https://spx.stwwwwww.icu/ "代理")  
+[在线代理(cf-worker)](https://gfw.stwwwwww.icu/ "代理")  
   
-建议添加host规则使用
+建议添加host规则使用  
 >104.16.38.155 cdn.fobzs.com  
   
-作者git仓库：[cf-worker](https://github.com/EtherDream/jsproxy/tree/master/cf-worker)  
+作者git仓库：[cf-worker](https://github.com/EtherDream/jsproxy/tree/master/cf-worker) [siteproxy](https://github.com/netptop/siteproxy)
 
 ### 注意事项
 平均跑分100mbps  
