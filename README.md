@@ -1,15 +1,18 @@
 # amlkiller-s-v2ray-Subscription
 ## 一项不定期更新的v2ray/SSR免费订阅
 ### 更新日期&更新快报
-2021-02-11  
-新年快乐！  
+2021-02-12  
+新年快乐！添加国内订阅地址。  
 
 ### 警告
 **这里的连接仅用于学习用途**
 **所有节点均是网络收集**
 ### How to use it?  
 [这是教程](https://github.com/amlkiller/amlkiller-s-v2ray-Subscription/blob/main/HOW-TO-USE.md "这是教程")
-### 订阅短连接：
+### 订阅连接：
+国内订阅连接请到：  
+https://gitee.com/amlkiller/amlkiller-subscription/tree/master  
+
 SSR:  
 http://t.cn/A6bESerq  
 V2RAY:  
